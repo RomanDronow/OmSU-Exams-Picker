@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">OmSU Exams Helper</string>
+    <string name="vstup">Творческие/профессиональные испытания вуза</string>
+    <string name="rus">Русский язык</string>
+    <string name="math">Математика</string>
+    <string name="phys">Физика</string>
+    <string name="chem">Химия</string>
+    <string name="bio">Биология</string>
+    <string name="hist">История</string>
+    <string name="geo">География</string>
+    <string name="eng">Английский язык</string>
+    <string name="fre">Французский язык</string>
+    <string name="deu">Немецкий язык</string>
+    <string name="soc">Обществознание</string>
+    <string name="liter">Литература</string>
+    <string name="comps">Информатика и ИКТ</string>
+    <string name="nextButton">Choose your destiny!</string>
+</resources>
