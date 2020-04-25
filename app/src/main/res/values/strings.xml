@@ -14,5 +14,5 @@
     <string name="soc">Обществознание</string>
     <string name="liter">Литература</string>
     <string name="comps">Информатика и ИКТ</string>
-    <string name="nextButton">Choose your destiny!</string>
+    <string name="nextButton">Найти</string>
 </resources>
